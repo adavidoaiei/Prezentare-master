@@ -2,7 +2,7 @@
 
 ## Cine a fost Alan Turing?
 
-Alan Turing a fost un matematician britanic care a descifrat codul Enigma utilizat de naziști în timpul celui de-Al Doilea Război Mondial, contribuind decisiv la scurtarea războiului. Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asupra informaticii moderne.
+Alan Turing a fost un matematician si criptograf britanic care a descifrat codul Enigma utilizat de naziști în timpul celui de-Al Doilea Război Mondial, contribuind decisiv la scurtarea războiului. Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asupra informaticii moderne.
 
 ![Imitation](https://github.com/adavidoaiei/Prezentare-master/raw/main/immitation.png)
 
