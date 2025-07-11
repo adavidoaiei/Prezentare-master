@@ -23,7 +23,7 @@ Testul Turing a devenit un reper important în filozofia minții, inteligența a
 
 Printre primele programe care au încercat să treacă testul se numără **Eliza**. Astăzi, modelele de limbaj de mari dimensiuni (**LLM**) reprezintă o continuare modernă a acestei idei.
 
-## Cum funcționează un LLM?
+## Ce este un LLM?
 
 Modelele de limbaj de mari dimensiuni (Large Language Models - LLM) sunt rețele neuronale antrenate pe cantități vaste de text pentru a înțelege și a genera limbaj natural.
 
