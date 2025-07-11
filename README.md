@@ -25,4 +25,10 @@ Printre primele programe care au încercat să treacă testul se numără **Eliz
 
 ## Cum funcționează un LLM?
 
-Un model LLM (*Large Language Model*) generează text prin prezicerea cuvântului următor în baza contextului anterior. Astfel, reușește să creeze propoziții coerente și să simuleze conversații asemănătoare celor dintre oameni.
+Modelele de limbaj de mari dimensiuni (Large Language Models - LLM) sunt rețele neuronale antrenate pe cantități vaste de text pentru a înțelege și a genera limbaj natural.
+
+Aceste modele funcționează prin prezicerea următorului cuvânt în funcție de contextul dat, reușind să producă propoziții coerente, să răspundă la întrebări și să simuleze conversații asemănătoare celor umane.
+
+Printre cele mai cunoscute LLM se numără GPT (Generative Pre-trained Transformer), BERT și PaLM.
+
+Datorită capacităților lor impresionante, LLM-urile au numeroase aplicații practice, de la chatboți și sisteme de asistență virtuală până la traduceri automate, rezumate de text și analiză semantică.
