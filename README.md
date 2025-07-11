@@ -1,14 +1,13 @@
-Cine este Alan Turing?
+# Testul Turing
 
-Alan Turing a spart codul Enigma a naziștilor in al doilea război mondial, scurtând războiul.
-Alan Turing a trăit 41 ani.
+## Cine a fost Alan Turing?
 
-Ce este testul Turing?
+Alan Turing a fost un matematician britanic care a reușit să descifreze codul Enigma folosit de naziști în timpul celui de-Al Doilea Război Mondial, contribuind semnificativ la scurtarea conflictului. A trăit doar 41 de ani, dar moștenirea sa științifică este enormă.
 
-Testul Turing a fost inventat în anul 1950.
-Eliza este o încercare de a trece testul Turing.
-LLM este o încercare moderna de a trece testul Turing.
+## Ce este testul Turing?
 
-Cum funcționează LLM?
+Testul Turing a fost propus în anul 1950 de Alan Turing pentru a evalua capacitatea unei mașini de a imita inteligența umană. Un exemplu timpuriu de program care a încercat să treacă testul este **Eliza**. Astăzi, modelele de limbaj de mari dimensiuni (**LLM**) reprezintă o abordare modernă a aceluiași obiectiv.
 
-LLM încearcă să prezică următorul cuvânt din text.
+## Cum funcționează un LLM?
+
+Un model LLM (*Large Language Model*) funcționează prin prezicerea următorului cuvânt în funcție de contextul anterior din text. Prin această metodă, reușește să genereze propoziții coerente și să simuleze conversații naturale.
