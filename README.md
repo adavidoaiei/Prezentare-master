@@ -12,6 +12,9 @@ Povestea vieții sale este prezentată în filmul biografic *Jocul Imitatiei* (*
 
 ## Ce este testul Turing?
 
+În lucrarea "Computing Machinery and Intelligence", Turing nu folosește termenul „Testul Turing” în mod explicit, ci introduce ceea ce el numește „jocul imitației” (the imitation game), un experiment ipotetic pentru a evalua dacă o mașină poate imita comportamentul unui om într-un mod convingător.
+
+Această idee a devenit ulterior cunoscută sub numele de Testul Turing și este considerată unul dintre fundamentele teoretice ale inteligenței artificiale.
 Testul Turing este un experiment de gândire propus în 1950 de matematicianul britanic Alan Turing, cu scopul de a răspunde la întrebarea: *"Pot mașinile să gândească?"*.  
 
 Prin acest test, o persoană interacționează prin mesaje scrise cu un interlocutor uman și cu un program de computer, fără să știe care este care. Dacă evaluatorul nu poate distinge cu suficientă siguranță răspunsurile omului de cele ale mașinii, se consideră că programul a trecut testul și demonstrează un nivel de inteligență comparabil cu cel uman.  
