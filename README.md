@@ -4,6 +4,10 @@
 
 Alan Turing a fost un matematician si criptograf britanic care a descifrat codul Enigma utilizat de naziști în timpul celui de-Al Doilea Război Mondial, contribuind decisiv la scurtarea războiului. Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asupra informaticii moderne.
 
+Alături de John von Neumann, Alan Turing este considerat unul dintre părinții calculatoarelor moderne.
+
+Am studiat contribuțiile sale în facultate: a creat modelul cunoscut sub numele de mașina Turing și a propus testul Turing în domeniul inteligenței artificiale.
+
 ![Imitation](https://github.com/adavidoaiei/Prezentare-master/raw/main/immitation.png)
 
 Povestea vieții sale este prezentată în filmul biografic *Jocul Imitatiei* (*The Imitation Game*).
