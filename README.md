@@ -23,6 +23,10 @@ Testul Turing a devenit un reper important în filozofia minții, inteligența a
 
 Printre primele programe care au încercat să treacă testul se numără **Eliza**. Astăzi, modelele de limbaj de mari dimensiuni (**LLM**) reprezintă o continuare modernă a acestei idei.
 
+Eliza funcționa prin potrivirea unor șabloane de text și reformularea replicilor utilizatorului sub forma unor întrebări sau afirmații. Cel mai cunoscut script al său a fost *DOCTOR*, care imita un psihoterapeut rogerian și dădea impresia că înțelege și răspunde empatic.  
+
+Deși era un program simplu, Eliza a demonstrat că interacțiunile bazate pe reguli pot crea iluzia unei conversații inteligente, inspirând cercetări ulterioare în domeniul procesării limbajului natural și al chatbot-urilor.
+
 ## Ce este un LLM?
 
 Modelele de limbaj de mari dimensiuni (Large Language Models - LLM) sunt rețele neuronale antrenate pe cantități vaste de text pentru a înțelege și a genera limbaj natural.
