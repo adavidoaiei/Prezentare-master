@@ -2,7 +2,9 @@
 
 ## Cine a fost Alan Turing?
 
-Alan Turing a fost un matematician si criptograf britanic care a descifrat codul Enigma utilizat de naziști în timpul celui de-Al Doilea Război Mondial, contribuind decisiv la scurtarea războiului. Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asupra informaticii moderne. Alături de John von Neumann, Alan Turing este considerat unul dintre părinții calculatoarelor moderne. Am studiat contribuțiile sale în facultate: a creat modelul cunoscut sub numele de mașina Turing și a propus testul Turing în domeniul inteligenței artificiale.
+Alan Turing a fost un matematician si criptograf britanic care a descifrat codul Enigma utilizat de naziști în timpul celui de-Al Doilea Război Mondial, contribuind decisiv la scurtarea războiului. 
+
+Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asupra informaticii moderne. Alături de John von Neumann, Alan Turing este considerat unul dintre părinții calculatoarelor moderne. Am studiat contribuțiile sale în facultate: a creat modelul cunoscut sub numele de mașina Turing și a propus testul Turing în domeniul inteligenței artificiale.
 
 ![Imitation](https://github.com/adavidoaiei/Prezentare-master/raw/main/immitation.png)
 
@@ -10,7 +12,13 @@ Povestea vieții sale este prezentată în filmul biografic *Jocul Imitatiei* (*
 
 ## Ce este testul Turing?
 
-Testul Turing, propus în 1950, urmărește să determine dacă o mașină poate imita comportamentul inteligent al unui om într-o conversație. Printre primele programe care au încercat să treacă testul se numără **Eliza**. Astăzi, modelele de limbaj de mari dimensiuni (**LLM**) reprezintă o continuare modernă a acestei idei.
+Testul Turing este un experiment de gândire propus în 1950 de matematicianul britanic Alan Turing, cu scopul de a răspunde la întrebarea: *"Pot mașinile să gândească?"*.  
+
+Prin acest test, o persoană interacționează prin mesaje scrise cu un interlocutor uman și cu un program de computer, fără să știe care este care. Dacă evaluatorul nu poate distinge cu suficientă siguranță răspunsurile omului de cele ale mașinii, se consideră că programul a trecut testul și demonstrează un nivel de inteligență comparabil cu cel uman.  
+
+Testul Turing a devenit un reper important în filozofia minții, inteligența artificială și informatică, inspirând generații de cercetători să dezvolte sisteme capabile să simuleze conversații naturale.
+
+Printre primele programe care au încercat să treacă testul se numără **Eliza**. Astăzi, modelele de limbaj de mari dimensiuni (**LLM**) reprezintă o continuare modernă a acestei idei.
 
 ## Cum funcționează un LLM?
 
