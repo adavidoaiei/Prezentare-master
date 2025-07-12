@@ -8,10 +8,11 @@ Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asup
 
 O mașină Turing este un model teoretic de calcul, propus de Alan Turing în 1936, care descrie cum un computer poate procesa informații pas cu pas, prin reguli simple. Este considerată fundamentul teoriei calculabilității.
 
-![Imitation](https://github.com/adavidoaiei/Prezentare-master/raw/main/immitation.png)
+![Imitation](https://github.com/adavidoaiei/Prezentare-master/raw/main/masina-turing.png)
 
 Povestea vieții sale este prezentată în filmul biografic *Jocul Imitatiei* (*The Imitation Game*).
 
+![Imitation](https://github.com/adavidoaiei/Prezentare-master/raw/main/immitation.png)
 ## Ce este testul Turing?
 
 În lucrarea **"Computing Machinery and Intelligence"**, Turing nu folosește termenul „Testul Turing” în mod explicit, ci introduce ceea ce el numește „jocul imitației” (the imitation game), un experiment ipotetic pentru a evalua dacă o mașină poate imita comportamentul unui om într-un mod convingător.
