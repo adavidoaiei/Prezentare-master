@@ -40,3 +40,5 @@ Datorită capacităților lor impresionante, LLM-urile au numeroase aplicații p
 Consider că agenții capabili să genereze cod reprezintă una dintre cele mai importante inovații din domeniu. Exemple relevante sunt GitHub Copilot și Gemini Code Assist.
 
 Andrej Karpathy a popularizat expresia Vibe Coding printr-o postare virală pe X (fostul Twitter). El a fost profesor la Stanford și a lucrat în trecut la OpenAI și Tesla. Vibe Coding este o abordare modernă a dezvoltării software cu LLM care pune accent pe creativitate, colaborare și experiență plăcută în procesul de programare. Prin utilizarea unor unelte intuitive numite agentii și a unui mediu de lucru prietenos, Vibe Coding încurajează dezvoltatorii să scrie cod cu entuziasm și să experimenteze liber, reducând stresul și sporind productivitatea.
+
+Vibe Coding  poate fi privit ca un altfel de test Turing in care interlocutorul e un programator care scrie cod.
