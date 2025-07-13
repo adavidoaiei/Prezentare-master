@@ -2,7 +2,7 @@
 
 ## Cine a fost Alan Turing?
 
-Alan Turing a fost un matematician si criptograf britanic care a descifrat codul Enigma utilizat de naziști în timpul celui de-Al Doilea Război Mondial, contribuind decisiv la scurtarea războiului. 
+Alan Turing(1912-1954) a fost un matematician si criptograf britanic care a descifrat codul Enigma utilizat de naziști în timpul celui de-Al Doilea Război Mondial, contribuind decisiv la scurtarea războiului. 
 
 Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asupra informaticii moderne. Alături de John von Neumann, Alan Turing este considerat unul dintre părinții calculatoarelor moderne. Am studiat contribuțiile sale în facultate: a creat modelul cunoscut sub numele de mașina Turing și a propus testul Turing în domeniul inteligenței artificiale.
 
@@ -49,3 +49,8 @@ Vibe Coding  poate fi privit ca un altfel de test Turing in care interlocutorul 
 **Bibliografie**
 
 1. Prezentarea lui Andrej Karpathy la AI Startup School https://youtu.be/LCEmiRjPEtQ
+
+**Resurse**
+1. Prezentare - https://github.com/adavidoaiei/Prezentare-master
+2. Simulator masina Turing in HTML si JavaScript - https://github.com/adavidoaiei/masina-turing
+
