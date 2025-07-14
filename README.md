@@ -30,6 +30,8 @@ Eliza funcționa prin potrivirea unor șabloane de text și reformularea replici
 
 Deși era un program simplu, Eliza a demonstrat că interacțiunile bazate pe reguli pot crea iluzia unei conversații inteligente, inspirând cercetări ulterioare în domeniul procesării limbajului natural și al chatbot-urilor.
 
+**Testul Turing Total**, propus de Stevan Harnad, este o extindere a testului Turing clasic care adaugă cerința ca un sistem inteligent artificial să posede nu doar capacități lingvistice, ci și abilități senzoriale și motorii. Spre deosebire de varianta originală, care se bazează exclusiv pe imitarea conversației umane, testul total presupune că inteligența reală necesită un „corp” capabil să perceapă și să acționeze în lume. Astfel, pentru a demonstra că înțelege cu adevărat conceptele despre care vorbește, un sistem trebuie să fie ancorat în experiența directă, nu doar să manipuleze simboluri abstracte.
+
 ## Ce este un LLM?
 
 Modelele de limbaj de mari dimensiuni (Large Language Models - LLM) sunt rețele neuronale antrenate pe cantități vaste de text pentru a înțelege și a genera limbaj natural.
