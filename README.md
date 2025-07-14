@@ -2,7 +2,7 @@
 
 ## Cine a fost Alan Turing?
 
-Alan Turing(1912-1954) a fost un matematician si criptograf britanic care a descifrat codul Enigma utilizat de naziști în timpul celui de-al Doilea tăzboi mondial, contribuind decisiv la scurtarea războiului. 
+Alan Turing(1912-1954) a fost un matematician si criptograf britanic care a descifrat codul Enigma utilizat de naziști în timpul celui de-al doilea război mondial, contribuind decisiv la scurtarea războiului. 
 
 Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asupra informaticii moderne. Alături de John von Neumann care a inventat masina cu registrii, Alan Turing este considerat unul dintre părinții calculatoarelor moderne. Am studiat contribuțiile sale în facultate: a creat modelul cunoscut sub numele de mașina Turing și a propus testul Turing în domeniul inteligenței artificiale.
 
