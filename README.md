@@ -4,7 +4,7 @@
 
 Alan Turing(1912-1954) a fost un matematician si criptograf britanic care a descifrat codul Enigma utilizat de naziști în timpul celui de-al doilea război mondial, contribuind decisiv la scurtarea războiului. 
 
-Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asupra informaticii moderne. Alături de John von Neumann care a inventat masina cu registrii, Alan Turing este considerat unul dintre părinții calculatoarelor moderne. Am studiat contribuțiile sale în facultate: a creat modelul cunoscut sub numele de mașina Turing și a propus testul Turing în domeniul inteligenței artificiale.
+Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asupra informaticii moderne. Alături de John von Neumann care a pus bazele masini cu registrii, Alan Turing este considerat unul dintre părinții calculatoarelor moderne. Am studiat contribuțiile sale în facultate: a creat modelul cunoscut sub numele de mașina Turing și a propus testul Turing în domeniul inteligenței artificiale.
 
 O mașină Turing este un model teoretic de calcul, propus de Alan Turing în 1936, care descrie cum un computer poate procesa informații pas cu pas, prin reguli simple. Este considerată fundamentul teoriei calculabilității si a fost folosita in spargerea codului Enigma utilizata de naziști in al doilea razboi mondial.
 
