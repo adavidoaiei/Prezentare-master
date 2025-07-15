@@ -51,6 +51,7 @@ Vibe Coding  poate fi privit ca un altfel de test Turing in care interlocutorul 
 **Bibliografie**
 
 1. Prezentarea lui Andrej Karpathy la AI Startup School https://youtu.be/LCEmiRjPEtQ
+2. Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, 59(236), 433–460.
 
 **Resurse**
 1. Prezentare - https://github.com/adavidoaiei/Prezentare-master
