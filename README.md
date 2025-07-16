@@ -6,7 +6,7 @@ Alan Turing (1912–1954) a fost un matematician și criptograf britanic care a 
 
 Deși a trăit doar 41 de ani, contribuțiile sale au avut un impact uriaș asupra informaticii moderne. Alături de John von Neumann, care a pus bazele mașinii cu registre, Alan Turing este considerat unul dintre părinții calculatoarelor moderne. Contribuțiile sale sunt studiate în programele universitare de informatică: a creat modelul cunoscut sub numele de mașina Turing și a propus testul Turing în domeniul inteligenței artificiale.
 
-O mașină Turing este un model teoretic de calcul, propus de Alan Turing în 1936, care descrie cum un computer poate procesa informații pas cu pas, prin reguli simple. Este considerată fundamentul teoriei calculabilității. Separat de acest model, Turing a proiectat mașini electromecanice (Bombe) care au contribuit la spargerea codului Enigma.
+O mașină Turing este un model teoretic de calcul, propus de Alan Turing în 1936, care descrie cum un computer poate procesa informații pas cu pas, prin reguli simple. Este considerată fundamentul teoriei computationale. Separat de acest model, Turing a proiectat mașini electromecanice (Bombe) care au contribuit la spargerea codului Enigma.
 
 ![Imitation](https://github.com/adavidoaiei/Prezentare-master/raw/main/masina-turing.png)
 
