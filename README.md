@@ -41,7 +41,7 @@ Modelele de limbaj de mari dimensiuni (*Large Language Models* – LLM) sunt re�
 
 Aceste modele funcționează prin prezicerea următorului cuvânt în funcție de contextul dat, reușind să producă propoziții coerente, să răspundă la întrebări și să simuleze conversații asemănătoare celor umane.
 
-![Imitation](https://github.com/adavidoaiei/Prezentare-master/raw/main/llm.png)
+![Imitation](https://github.com/adavidoaiei/Prezentare-master/raw/main/llm.jpg)
 
 Printre cele mai cunoscute LLM se numără GPT (*Generative Pre-trained Transformer*), utilizat în ChatGPT, BERT, Gemini și PaLM.
 
