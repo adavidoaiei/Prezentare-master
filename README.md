@@ -47,7 +47,7 @@ Printre cele mai cunoscute LLM se numără GPT (*Generative Pre-trained Transfor
 
 Datorită capacităților lor impresionante, LLM-urile au numeroase aplicații practice, de la chatboți și sisteme de asistență virtuală până la traduceri automate, rezumate de text și analiză semantică.
 
-Consider că agenții capabili să genereze cod reprezintă una dintre cele mai importante inovații din domeniu. Exemple relevante sunt **GitHub Copilot** și **Gemini Code Assist**.
+În cadrul progreselor recente din inteligența artificială, agenții capabili să genereze cod reprezintă, în mod justificat, unele dintre cele mai semnificative inovații. Printre exemplele relevante se numără **GitHub Copilot** și **Gemini Code Assist**, care ilustrează aplicabilitatea acestor sisteme în automatizarea procesului de programare.
 
 **Andrej Karpathy** a popularizat expresia **Vibe Coding** printr-o postare virală pe X (fostul Twitter). El a fost profesor la Stanford și a lucrat în trecut la OpenAI și Tesla. Vibe Coding este o abordare modernă a dezvoltării software cu LLM care pune accent pe creativitate, colaborare și experiență plăcută în procesul de programare. Prin utilizarea unor unelte intuitive numite agenți și a unui mediu de lucru prietenos, Vibe Coding încurajează dezvoltatorii să scrie cod cu entuziasm și să experimenteze liber, reducând stresul și sporind productivitatea.
 
