@@ -33,7 +33,7 @@ Deși era un program simplu, Eliza a demonstrat că interacțiunile bazate pe re
 
 **Testul Turing Total**, propus de Stevan Harnad în 1989, este o extindere a testului Turing clasic care adaugă cerința ca un sistem inteligent artificial să posede nu doar capacități lingvistice, ci și abilități senzoriale și motorii ca un robot. Spre deosebire de varianta originală, care se bazează exclusiv pe imitarea conversației umane, testul total presupune că inteligența reală necesită un „corp” capabil să perceapă și să acționeze în lume. Astfel, pentru a demonstra că înțelege cu adevărat conceptele despre care vorbește, un sistem trebuie să fie ancorat în experiența directă, nu doar să manipuleze simboluri abstracte.
 
-O problemă fundamentală este dacă calculatoare/roboti pot avea conștiința, ce e conștiința? Poate fi doar autonomie.
+O problemă fundamentală este dacă calculatoare/roboti pot avea conștiința, asta e ipoteza de la care a plecat Alan Turing cand a facut testul turing, Testul Turing Total merge mai aproape, ce e conștiința? Poate fi doar autonomie.
 
 ## Ce este un LLM?
 
