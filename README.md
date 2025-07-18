@@ -41,23 +41,28 @@ Modelele de limbaj de mari dimensiuni (*Large Language Models* – LLM) sunt re�
 
 Aceste modele funcționează prin prezicerea următorului cuvânt în funcție de contextul dat, reușind să producă propoziții coerente, să răspundă la întrebări și să simuleze conversații asemănătoare celor umane.
 
-[Text Input]
-     |
-     v
-[Tokenizare]
-     |
-     v
-[Embedding Layer]  ← (transformă tokenii în vectori numerici)
-     |
-     v
-[Blocuri Transformer (N straturi)]
-     |
-     v
-[Head de ieșire (Linear + Softmax)]
-     |
-     v
-[Predicție: următorul cuvânt / completarea textului]
+# Schiță – Large Language Model (LLM)
 
+## 1. Input textual
+Textul brut este introdus de utilizator.
+
+## 2. Tokenizare
+Textul este împărțit în unități lexicale numite tokeni.
+
+## 3. Embedding
+Fiecărui token i se asociază un vector numeric într-un spațiu de dimensiuni fixe.
+
+## 4. Straturi Transformer
+Tokenii vectorizați sunt procesați prin mai multe straturi care includ:
+- **Atenție multi-head (self-attention)**
+- **Rețele neuronale feed-forward**
+- **Normalizare și conexiuni reziduale**
+
+## 5. Head de ieșire
+Un strat liniar urmat de funcția softmax generează o distribuție de probabilitate asupra vocabularului.
+
+## 6. Decodare autoregresivă
+Modelul prezice tokenul următor pe baza celor anterioare, generând text secvențial.
 
 Printre cele mai cunoscute LLM se numără GPT (*Generative Pre-trained Transformer*), utilizat în ChatGPT, BERT, Gemini și PaLM.
 
