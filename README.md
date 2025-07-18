@@ -41,7 +41,7 @@ Modelele de limbaj de mari dimensiuni (*Large Language Models* – LLM) sunt re�
 
 Aceste modele funcționează prin prezicerea următorului cuvânt în funcție de contextul dat, reușind să producă propoziții coerente, să răspundă la întrebări și să simuleze conversații asemănătoare celor umane.
 
-Schiță – Large Language Model (LLM)
+Schiță – Large Language Model (LLM):
 
 1. Input textual
 Textul brut este introdus de utilizator.
