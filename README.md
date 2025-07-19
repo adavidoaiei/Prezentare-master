@@ -43,26 +43,26 @@ Aceste modele funcționează prin prezicerea următorului cuvânt în funcție d
 
 Arhitectura unui Large Language Model (LLM):
 
-1. Input textual<br>
+**1. Input textual**<br>
 Modelul primește ca intrare un text brut, introdus de utilizator.
 
-2. Tokenizare<br>
+**2. Tokenizare**<br>
 Textul este segmentat în unități lingvistice fundamentale numite *tokeni*.
 
-3. Embedding<br>
+**3. Embedding**<br>
 Fiecărui token i se atribuie un vector numeric într-un spațiu de dimensiune fixă, facilitând prelucrarea matematică ulterioară.
 
-4. Straturi Transformer<br>
+**4. Straturi Transformer**<br>
 Tokenii vectorizați sunt procesați printr-o arhitectură profundă compusă din mai multe straturi, care includ:
 
 - **Atenție multi-head (self-attention)** – captează relațiile contextuale dintre tokeni.
 - **Rețele neuronale feed-forward** – aplică transformări non-liniare.
 - **Normalizare și conexiuni reziduale** – îmbunătățesc stabilitatea și fluxul de informație în rețea.
 
-5. Head de ieșire<br>
+**5. Head de ieșire**<br>
 Un strat liniar urmat de funcția **softmax** generează o distribuție de probabilitate asupra vocabularului, indicând continuările posibile ale secvenței.
 
-6. Decodare autoregresivă<br>
+**6. Decodare autoregresivă**<br>
 Modelul generează text în mod secvențial, prezicând fiecare token următor pe baza contextului anterior, într-un proces autoregresiv.
 
 Printre cele mai cunoscute LLM se numără GPT (*Generative Pre-trained Transformer*), utilizat în ChatGPT, BERT, Gemini și PaLM.
