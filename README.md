@@ -31,6 +31,8 @@ Eliza funcționa prin potrivirea unor șabloane de text și reformularea replici
 
 Deși era un program simplu, Eliza a demonstrat că interacțiunile bazate pe reguli pot crea iluzia unei conversații inteligente, inspirând cercetări ulterioare în domeniul procesării limbajului natural și al chatbot-urilor.
 
+**Natural Language Processing (NLP)** funcționează prin transformarea limbajului uman într-o formă pe care computerele o pot înțelege și procesa, folosind o serie de pași și algoritmi specifici. Mai întâi, textul brut este împărțit în unități mai mici, numite tokeni (cuvinte sau fraze), apoi se analizează structura gramaticală și relațiile dintre cuvinte prin analiză sintactică. Urmează identificarea entităților (persoane, locuri, date) și înțelegerea sensului propozițiilor prin analiză semantică. 
+
 **Testul Turing Total**, propus de Stevan Harnad în 1989, este o extindere a testului Turing clasic care adaugă cerința ca un sistem inteligent artificial să posede nu doar capacități lingvistice, ci și abilități senzoriale și motorii ca un robot. Spre deosebire de varianta originală, care se bazează exclusiv pe imitarea conversației umane, testul total presupune că inteligența reală necesită un „corp” capabil să perceapă și să acționeze în lume. Astfel, pentru a demonstra că înțelege cu adevărat conceptele despre care vorbește, un sistem trebuie să fie ancorat în experiența directă, nu doar să manipuleze simboluri abstracte.
 
 O întrebare fundamentală este dacă calculatoarele sau roboții pot avea conștiință. De la această ipoteză a pornit Alan Turing când a conceput testul său. Testul Turing Total duce această discuție mai departe, punând în centru întrebarea: ce este conștiința? Poate că ea se reduce, în esență, la autonomie.
